@@ -1,3 +1,5 @@
+> 因小程序项目越来越复杂，故本仓库不再维护，所有能力收归到[开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html)之中，建议直接使用开发者工具来初始化项目。
+
 # miniprogram-cli
 
 小程序开发相关命令行工具，目前支持以下几种模板：
